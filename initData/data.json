@@ -1,0 +1,122 @@
+{
+  "adminsList": ["Amir","Tomer"],
+  "registeredUserList":
+  [
+    {
+      "username": "Amir",
+      "password": "amirsPass",
+      "address": "addressOk",
+      "bDay": "1999-07-11",
+      "stores": [
+        {
+          "founderName": "Amir",
+          "storeName": "amir1s Store",
+          "ownersList": [],
+          "managersList": [],
+          "itemList": [
+            {
+              "itemName": "Bread",
+              "itemPrice": 5.0,
+              "itemCategory": "Wheat",
+              "weight": 1.0,
+              "amount": 50
+            },
+            {
+              "itemName": "Milk",
+              "itemPrice": 6.0,
+              "itemCategory": "Dairy",
+              "weight": 2.0,
+              "amount": 10
+            },
+            {
+              "itemName": "Butter",
+              "itemPrice": 7.0,
+              "itemCategory": "Dairy",
+              "weight": 3.0,
+              "amount": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "username": "Tomer",
+      "password": "tomersPass",
+      "address": "addressOk",
+      "bDay": "1999-07-11",
+      "stores": []
+    },
+    {
+      "username": "Yonatan",
+      "password": "yonantansPass",
+      "address": "addressOk",
+      "bDay": "1999-07-11",
+      "stores": []
+    },
+    {
+      "username": "Sagi",
+      "password": "sagisPass",
+      "address": "addressOk",
+      "bDay": "1999-07-11",
+      "stores": [
+        {
+          "founderName": "Sagi",
+          "storeName": "Sagi1 Store",
+          "ownersList": ["Tomer","Amir"],
+          "managersList": ["Yonatan"],
+          "itemList": [
+            {
+              "itemName": "Eggs",
+              "itemPrice": 4.5,
+              "itemCategory": "Dairy",
+              "weight": 5.0,
+              "amount": 20
+            },
+            {
+              "itemName": "Apple",
+              "itemPrice": 2.0,
+              "itemCategory": "Fruit",
+              "weight": 4.0,
+              "amount": 50
+            },
+            {
+              "itemName": "Chicken Breast",
+              "itemPrice": 8.0,
+              "itemCategory": "Meat",
+              "weight": 3.0,
+              "amount": 15
+            },
+            {
+              "itemName": "Pasta",
+              "itemPrice": 3.5,
+              "itemCategory": "Grains",
+              "weight": 2.0,
+              "amount": 40
+            },
+            {
+              "itemName": "Orange Juice",
+              "itemPrice": 4.0,
+              "itemCategory": "Beverage",
+              "weight": 1.0,
+              "amount": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "username": "Meitar",
+      "password": "meitarsPass",
+      "address": "addressOk",
+      "bDay": "1999-07-11",
+      "stores": []
+    },
+    {
+      "username": "Maor",
+      "password": "maorsPass",
+      "address": "addressOk",
+      "bDay": "1999-07-11",
+      "stores": []
+    }
+  ]
+}

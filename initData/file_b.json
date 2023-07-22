@@ -1,0 +1,68 @@
+{
+  "adminsList": [
+    "U1"
+  ],
+  "registeredUserList": [
+    {
+      "username": "U3",
+      "password": "U3pass",
+      "address": "addressOk",
+      "bDay": "1999-07-11",
+      "stores": []
+    },
+    {
+      "username": "U4",
+      "password": "U4pass",
+      "address": "addressOk",
+      "bDay": "1999-07-11",
+      "stores": []
+    },
+    {
+      "username": "U5",
+      "password": "U5pass",
+      "address": "addressOk",
+      "bDay": "1999-07-11",
+      "stores": []
+    },
+    {
+      "username": "U6",
+      "password": "U6pass",
+      "address": "addressOk",
+      "bDay": "1999-07-11",
+      "stores": []
+    },
+    {
+      "username": "U2",
+      "password": "U2pass",
+      "address": "addressOk",
+      "bDay": "1999-07-11",
+      "stores": [
+        {
+          "founderName": "U2",
+          "storeName": "S1",
+          "ownersList": [
+          ],
+          "managersList": [
+          ],
+          "itemList": [
+            {
+              "itemName": "BAMBA",
+              "itemPrice": 30,
+              "itemCategory": "Snacks",
+              "weight": 5.0,
+              "amount": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "username": "U1",
+      "password": "U1pass",
+      "address": "addressOk",
+      "bDay": "1999-07-11",
+      "stores": []
+    }
+  ]
+}
+

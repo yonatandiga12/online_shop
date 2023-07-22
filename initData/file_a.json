@@ -1,0 +1,58 @@
+{
+  "adminsList": [],
+  "registeredUserList": [
+    {
+      "username": "U3",
+      "password": "U3pass",
+      "address": "addressOk",
+      "bDay": "1999-07-11",
+      "stores": []
+    },
+    {
+      "username": "U2",
+      "password": "U2pass",
+      "address": "addressOk",
+      "bDay": "1999-07-11",
+      "stores": []
+    },
+    {
+      "username": "U1",
+      "password": "U1pass",
+      "address": "addressOk",
+      "bDay": "1999-07-11",
+      "stores": [
+        {
+          "founderName": "U1",
+          "storeName": "S1",
+          "ownersList": [
+            "U2"
+          ],
+          "managersList": [
+          ],
+          "itemList": [
+          ]
+        }
+      ]
+    },
+    {
+      "username": "U2",
+      "password": "U2pass",
+      "address": "addressOk",
+      "bDay": "1999-07-11",
+      "stores": [
+        {
+          "founderName": "U1",
+          "storeName": "S1",
+          "ownersList": [
+            "U3"
+          ],
+          "managersList": [
+          ],
+          "itemList": [
+          ]
+        }
+      ]
+    }
+  ]
+}
+
