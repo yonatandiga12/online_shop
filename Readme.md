@@ -1,7 +1,4 @@
 # Read this!
-## In order to make sure we dont have different versions, everyone use open jdk 19
-## Remember to add comments, logs, and unit tests
-
 ## Configuration
 
 The configuration data for the database and initialization can be set in the `config.properties` file. Here is an example:
